@@ -1,4 +1,4 @@
-# Light & Dark mode switching style page
+# Animated navbar for mobiles
 
 ## Login
 
@@ -9,21 +9,17 @@ To get access to the app's content you need to run it into your browser.
 
 ## Content
 
-After loading page, user is by default switched on light mode styled page.
+After loading page, user is by default switched on home page.
 
 
-![light style page](./assets/img/light-mode.png "light style page")
+![home page](./assets/Home%20page.png "home page")
 
- User can then click on switcher which is positioned on top right corner <br>
- on the navigation bar. 
+ User can then click on switcher 'hamburger' that is positioned on top right corner and a menu will appear.
 
- User can switch back to light mode. If dark mode is last mode that user has been using<br>
- before leaving a page, it is considered to be choosen one. 
-
- It is remembered in localStorage and another time visiting a page, same mode will be loaded first.
+ Different delays are added to list items in navigation so they will slide in one after another. 
 
 
-![darkt style page](./assets/img/dark-mode.png "dark style page")
+![menu overlay](./assets/navigation%20overlay.png "menu overlay")
 
 
 
@@ -31,6 +27,7 @@ After loading page, user is by default switched on light mode styled page.
 * Fonts: https://fonts.google.com/
 * Icons: https://fontawesome.com/icons?d=gallery&q=close&m=free
 * Undraw illustrations: https://undraw.co/illustrations
+* Unsplash: https://unsplash.com/
 
 
 # 👉 Built with
@@ -40,5 +37,5 @@ After loading page, user is by default switched on light mode styled page.
 
 # 💻 Development
 1. run index.html on your browser
-2. git clone https://github.com/valerijadrinek/dark-light-mode-switching-page.git
-3. github pages https://valerijadrinek.github.io/dark-light-mode-switching-page/
+2. git clone https://github.com/valerijadrinek/animated-navbar-for-mobiles.git
+3. github pages https://valerijadrinek.github.io/animated-navbar-for-mobiles/
