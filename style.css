@@ -373,7 +373,10 @@ img{
     height: 30%;
     object-fit: contain;
   }
-
+  
+  h1 {
+    margin-bottom: -1.5rem;
+  }
   .text-container p {
     padding: 1rem;
    
